@@ -17,5 +17,14 @@ export const achievementsData = [
     description: "Maintained a high academic record throughout Bachelor of Computer Applications program.",
     score: "8.29 CGPA",
     icon: "GraduationCap"
-  }
+  },
+  {
+  id: "hanumant-internship",
+  type: "Internship Experience",
+  title: "Full Stack Developer Intern",
+  issuer: "Hanumant Technology",
+  description: "Completed a 3-month internship as a Full Stack Developer, working on web application development using modern frontend and backend technologies.",
+  duration: "3 Months",
+  icon: "Code2"
+}
 ];
